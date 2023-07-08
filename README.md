@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-bre, a computer science graduate of Dominican University.
+- 👋 Hi, I’m @ali-bre, a recent computer science graduate of Dominican University.
 - 👀 I’m interested in coding, webcomics, and graphic design.
 - 🌱 I’m currently learning how to work with python.
 - 💞️ I’m looking to collaborate on future programming projects.
